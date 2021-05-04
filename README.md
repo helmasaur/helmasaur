@@ -7,7 +7,7 @@ For now, you can mostly find projects related to [discord.js](https://github.com
 ## How to reach me
 
 🐦 Twitter: [@helmasaur](https://twitter.com/helmasaur)<br />
-📷 Instagram: [helmasaur](https://instagram.com/helmasaur)<br />
+📷 Instagram: [@helmasaur](https://instagram.com/helmasaur)<br />
 🐽 Discord: [Helmasaur#1138](https://discordapp.com/users/164470149473107969)<br />
 
 ## Statistics
