@@ -4,7 +4,13 @@ Welcome here! I am Helmasaur and I live in Paris, France.
 
 For now, you can mostly find projects related to [discord.js](https://github.com/discordjs/discord.js), but some other things might slowly appear. Stay tuned!
 
-## Stats
+## How to reach me
+
+🐦 Twitter: [@helmasaur](https://twitter.com/helmasaur)<br />
+📷 Instagram: [helmasaur](https://instagram.com/helmasaur)<br />
+🐽 Discord: [Helmasaur#1138](https://discordapp.com/users/164470149473107969)<br />
+
+## Statistics
 
 <!-- 
 [![Helmasaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=helmasaur&theme=midnight-purple&title_color=4527A0&text_color=E0E0E0&icon_color=4527A0&border_color=E0E0E0&bg_color=546E7A&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
