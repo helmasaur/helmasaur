@@ -2,7 +2,9 @@
 
 Welcome here! I am Helmasaur and I live in Paris, France.
 
-For now, you can mostly find projects related to [discord.js](https://github.com/discordjs/discord.js), but some other things might slowly appear. Stay tuned!
+For now, you can mostly find projects related to [discord.js](https://github.com/discordjs/discord.js), but some other things might slowly appear. I might be talking about a CMS and a video game 👀.
+
+Stay tuned!
 
 ## How to reach me
 
